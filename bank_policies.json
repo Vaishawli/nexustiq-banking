@@ -1,0 +1,7 @@
+[
+  {"keywords": ["loan"], "response": "Home Loan 8.5% p.a, Personal Loan 11% p.a"},
+  {"keywords": ["account"], "response": "Account opening: Aadhar + PAN, Rs.500 min balance"},
+  {"keywords": ["fraud", "scam"], "response": "Fraud? Call 1800-123-456 immediately to block card"},
+  {"keywords": ["card"], "response": "Credit card limit up to 5 lakhs, 1st year free"},
+  {"keywords": ["fd", "deposit"], "response": "FD 7.5% for 1yr, Senior citizens 8%"}
+]
